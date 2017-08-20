@@ -1,0 +1,17 @@
+{
+  "module": {
+    "name": "YouTube",
+    "version": "1.1.0",
+    "description": "YouTube Player fuer deinen Smartmirror.",
+    "module_url": "https://www.glancr.de/profiles/wsdt/youtube",
+    "download_url": "https://www.glancr.de/profiles/wsdt/youtube/youtube.zip",
+    "category": "Unterhaltung",
+    "last_update": "2017-08-01"
+  },
+  "creator": {
+    "name": "Riedl Kevin (WSDT)",
+    "contact": "kevin.riedl.privat@gmail.com",
+    "website": "https://www.instagram.com/kevkevin_greenhat/",
+    "profile": "https://www.glancr.de/profiles/wsdt"
+  }
+}

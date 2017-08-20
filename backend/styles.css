@@ -1,0 +1,15 @@
+#creator span {
+    color:#ccc;
+    font-size: small;
+}
+
+.center {
+    /*center*/
+    display: block;
+    margin: auto;
+    width: 40%;
+}
+
+.text-info {
+    text-align:justify;
+}

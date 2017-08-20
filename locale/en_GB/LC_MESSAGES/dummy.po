@@ -1,0 +1,32 @@
+# mirr.OS v0.1.2.
+# Copyright (C) 2016
+# This file is distributed under the same license as the PACKAGE package.
+# mattes <ma@glancr.de>, 2016.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: mirr.OS v0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-03-17 10:20+0100\n"
+"PO-Revision-Date: 2016-04-17 18:35+0100\n"
+"Last-Translator: gorbo <info@gorbo.de>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Poedit 1.5.4\n"
+"Language: en_GB\n"
+
+msgid "dummy_title"
+msgstr "Dummy"
+
+msgid "dummy_description"
+msgstr "This is a dummy module."
+
+msgid "dummy parameter"
+msgstr "dummy parameter"
+
+msgid "save"
+msgstr "save"
