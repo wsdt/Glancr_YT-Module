@@ -33,7 +33,7 @@ if ($YT_Link == 'GLANCR_DEFAULT') {
 
 //SET NEW URL (for Apps)
 if (!empty($_POST['YT_Url'])) {
-    return !empty(setConfigValue('YT_Link', $_POST['YT_Url'])) ? true : false; //setConfigValue provides null when error
+    $isUrlSet = !empty(setConfigValue('YT_Link', $_POST['YT_Url'])) ? true : false; //setConfigValue provides null when error
 }
 
 ?>
